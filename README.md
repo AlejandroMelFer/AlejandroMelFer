@@ -1,35 +1,33 @@
 ![](https://komarev.com/ghpvc/?username=Birunthaban)
 
-### Hola buenas👋 soy Alejandro Melendez Fernandez
+### Hola buenas👋 soy Alejandro Meléndez Fernández
 
-Soy un estudiante de 19 años de primero de ASIR que ha pasado previamente por un año de DAM y 2 meses arreglando moviles en una pequeña tienda
+Soy un desarrollador de software apasionado por la informática y del como funcionan las cosas desde la raíz. <br>
+Me interesa mucho como funcionan los programas de raíz ya que ayuda a comprender el motivo de los errores y no me basta con un "Funciona porque sí".
 
-- 🔭 Actualmente estoy estudiando
-	- Administracion de Sistemas Informaticos en Red
-- :bulb: Estoy interesado en todas las ramas de la tecnologia como el Big data, IA, Cloud entre otros
+## Estudios
+
+Actualmente estoy cursando un Curso de Especialización de Desarrollo en el lenguaje Python.<br>
+He finalizado un Grado Superior en ASIR
 
 ## Conocimientos
+<ul>
+	<li>Python</li>
+	<li>Java</li>
+	<li>Docker</li>
+	<li>Git y Github</li>
+	<li>SQL</li>
+	<li>Bash Scripting</li>
 
-<h4> Lenguajes </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</span>
+</ul>
+He estado de practicas trabajando con Typescript y React en el frontend sin embargo mi gusto reside en el backend.
 
-<h4> Bases de datos </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
+## Intereses
 
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-
-
-<h4> Otras tecnologias relacionadas </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-</span>
+Aunque sea profano en la materia me sigo familiarizando con temas como: 
+<ul>
+	<li>Los servicios en la nube y su aplicación en producción</li>
+	<li>Rendimiento a bajo nivel</li>
+	<li>Herramientas de codigo abierto</li>
+	<li>Ciberseguridad</li>
+</ul>
